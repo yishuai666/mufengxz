@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/mufengxz_common/mufengxz_common_utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_common/mufengxz_service_base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_common/mufengxz_spring_security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_infrastructure/mufengxz_api_gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_service/mufengxz_service_acl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_service/mufengxz_service_main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_service/mufengxz_service_main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_service/mufengxz_service_ori/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mufengxz_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,32 @@
+2023-10-25 22:14:55.947 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice.mapper]' package. Please check your configuration.
+2023-10-25 22:14:56.155 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice]' package. Please check your configuration.
+2023-10-25 22:14:58.490 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-25 22:14:58.497 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-25 22:15:39.058 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice.mapper]' package. Please check your configuration.
+2023-10-25 22:15:39.215 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice]' package. Please check your configuration.
+2023-10-25 22:15:41.237 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-25 22:15:41.245 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-25 22:15:57.913 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice.mapper]' package. Please check your configuration.
+2023-10-25 22:15:58.134 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice]' package. Please check your configuration.
+2023-10-25 22:16:00.698 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-25 22:16:00.705 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-25 22:16:36.230 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice.mapper]' package. Please check your configuration.
+2023-10-25 22:16:36.393 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice]' package. Please check your configuration.
+2023-10-25 22:16:38.392 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-25 22:16:38.397 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-25 22:43:42.151 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice.mapper]' package. Please check your configuration.
+2023-10-25 22:43:42.303 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice]' package. Please check your configuration.
+2023-10-25 22:43:44.681 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-25 22:43:44.688 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-26 09:38:35.006 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice.mapper]' package. Please check your configuration.
+2023-10-26 09:38:35.239 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice]' package. Please check your configuration.
+2023-10-26 09:38:37.890 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-26 09:38:37.897 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-30 20:22:16.272 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice.mapper]' package. Please check your configuration.
+2023-10-30 20:22:16.491 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice]' package. Please check your configuration.
+2023-10-30 20:22:19.021 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-30 20:22:19.027 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-31 12:54:10.557 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice.mapper]' package. Please check your configuration.
+2023-10-31 12:54:10.793 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.mufengxz.oriservice]' package. Please check your configuration.
+2023-10-31 12:54:13.194 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-10-31 12:54:13.201 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.

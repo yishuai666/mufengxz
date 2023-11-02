@@ -1,0 +1,82 @@
+# 服务端口
+server:
+  port: 8222
+  # 服务名
+spring:
+  application:
+    name: mufengxz-service-gateway
+  # nacos服务地址
+  cloud:
+    inetutils:
+      ignored-interfaces: 'VMware Virtual Ethernet Adapter for VMnet1,VMware Virtual Ethernet Adapter for VMnet8'
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+  
+    #使用服务发现路由
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+  
+      #设置路由id
+      #配置service-acl服务
+      routes[0]:
+        id: mufengxz-service-acl
+        #设置路由的uri   lb://nacos注册服务名称
+        uri: lb://mufengxz-service-acl
+        #设置路由断言,代理servicerId为auth-service的/auth/路径
+        predicates:  Path=/*/acl/**
+  
+      #配置service-edu服务
+      routes[1]:
+        id: mufengxz-service-ori
+        uri: lb://mufengxz-service-ori
+        predicates:  Path=/eduori/**
+  
+      #配置service-msm服务
+      routes[2]:
+        id: mufengxz-service-msm
+        uri: lb://mufengxz-service-msm
+        predicates:  Path=/edumsm/**
+
+      #配置service-ucenter服务
+      routes[3]:
+        id: mufengxz-service-ucenter
+        uri: lb://mufengxz-service-ucenter
+        predicates:  Path=/educenter/**
+
+
+      #配置service-statistics服务
+      routes[4]:
+        id: mufengxz-service-statistics
+        uri: lb://mufengxz-service-statistics
+        predicates:  Path=/staservice/**
+
+      #配置service-vod服务
+      routes[5]:
+        id: mufengxz-service-vod
+        uri: lb://mufengxz-service-vod
+        predicates: Path=/eduvod/**
+
+      #配置service-oss服务
+      routes[6]:
+        id: mufengxz-service-oss
+        uri: lb://mufengxz-service-oss
+        predicates: Path=/eduoss/**
+
+      #配置service-order服务
+      routes[7]:
+        id: mufengxz-service-order
+        uri: lb://mufengxz-service-order
+        predicates: Path=/eduorder/**
+
+      #配置service-cms服务
+      routes[8]:
+        id: mufengxz-service-cms
+        uri: lb://mufengxz-service-cms
+        predicates: Path=/educms/**
+
+
+  main:
+    allow-bean-definition-overriding: true
